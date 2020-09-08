@@ -1,0 +1,60 @@
+# ashwini-r
+<html>
+<head>
+<title>first program</title>
+</head>
+<body>
+<h1>WELCOME</h1>
+<p style="font-family:italic">Vidyavardhaka college of engineering</p>
+<p style="font-size:40px">
+<b>Dept of CSE</b></p>
+<p style="font-family:italies"><pre>
+Description about dept
+has very good faculties <br> good environment
+          more number of faculties</pre></p>
+<img src="IMG_20200908_172210.jpg" height="50%" width="40%">
+<br>
+<a href="https://vvce.ac.in/"> click here</a>
+<ul>
+<li> acm chapter</li>
+<li>code club</li>
+<li>Barcamp</li>
+</ul>
+<ol>
+<li> acm chapter</li>
+<li>code club</li>
+<li>Barcamp</li>
+</ol>
+<p style="background-color:purple; color:white;">
+Dr.B.Sadashive Gowda</p>
+<p><del>No</del> classes till 30<sup>th</sup> september</p>
+<p>Developed by "Ashwini R"</p>
+<b>Subjects in 7th sem</b>
+<table border="2"; style="border:1px solid blue;">
+<tr>
+<th>Subject name</th> 
+<th>Subject code</th>
+</tr>
+<tr>
+<td>web </td>
+<td>17cs71 </td> </tr>
+<tr>
+<td>aca </td>
+<td>17cs72 </td> </tr>
+<tr>
+<td>ml </td>
+<td>17cs73 </td> </tr>
+<tr>
+<td>cca </td>
+<td>17cs742 </td></tr>
+<tr>
+<td>dip </td>
+<td>17cs753 </td></tr>
+<tr>
+<td>ml lab </td>
+<td>17csl76 </td></tr>
+<tr>
+<td>web lab </td>
+<td>17csl77 </td></tr>
+</body>
+</html>
